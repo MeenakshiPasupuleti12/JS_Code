@@ -1,4 +1,4 @@
-let x = 1;
+var x = 1;
 
 while (x < 1) 
 {
