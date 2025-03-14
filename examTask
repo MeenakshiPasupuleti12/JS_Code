@@ -1,0 +1,5 @@
+R1 = int(input())
+R2 = int(input())
+R3 = int(input())
+R4 = (R3*R4) //R1
+print(R4)
